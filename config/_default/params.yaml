@@ -61,7 +61,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -76,39 +76,39 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
-math: false
-diagram: false
-privacy_pack: false
+  - Matlab
+math: true
+diagram: true
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
   repo_branch: main
   editable:
-    page: false
-    post: false
-    book: false
+    page: true
+    post: true
+    book: true
 show_related:
   book: true
-  page: false
+  page: true
   post: true
   project: true
   publication: true
   event: true
 reading_time: true
-section_pager: false
+section_pager: true
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
-  allow_derivatives: false
+  enable: true
+  allow_derivatives: true
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
@@ -139,7 +139,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: false
+    show_logo: true
 map:
   provider: ''
   api_key: ''
