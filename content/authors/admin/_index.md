@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kyeong Sun Kim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Integrated Masters and PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Seoul National University
+  url: https://www.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include soil-structural interface and finite element limit analysis.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Soil-Structural Interface
+- Computational Soil Mechanics
+- Finite Element Limit Analysis
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Civil and Environmental Engineering
+    institution: Seoul National University
+    year: 2026
+  - course: Masters in Civil and Environmental Engineering
+    institution: Seoul National University
+    year: 2023
+  - course: BSc in Civil and Environmental Engineering
+    institution: University of California, Berkeley
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
